@@ -1164,6 +1164,7 @@ export
     issocket,
     issticky,
     iswritable,
+    ln,
     lstat,
     mkdir,
     mkpath,
